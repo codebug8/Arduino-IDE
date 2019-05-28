@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "liming",
-      "maintainer": "Ming Li ",
+      "maintainer": "Ming Li",
       "websiteURL": "https://github.com/codebug8/Arduino-IDE",
       "email": "livelwh@outlook.com",
       "help": {
