@@ -22,9 +22,9 @@
           "checksum": "MD5:cd665a20171b4c141077945d6a3fff2c",
           "size": "7166",
           "boards": [
-            {"name": "100ask am335x"},
-            {"name": "roc rk3399"},
-            {"name": "firefly rk3288"}
+            {"name": "100ask_am335x"},
+            {"name": "roc_rk3399"},
+            {"name": "firefly_rk3288"}
           ],
           "toolsDependencies": [
             {
@@ -40,27 +40,6 @@
           "name": "arm-linux-gnueabihf",
           "version": "6.5.0-2018.12",
           "systems": [
-            {
-              "host": "i386-apple-darwin11",
-              "url": "https://github.com/sandeepmistry/arduino-nRF5/releases/download/tools/gcc-arm-none-eabi-5_2-2015q4-20151219-mac.tar.bz2",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-mac.tar.bz2",
-              "size": "96372129",
-              "checksum": "MD5:603bcce8e59683ac27054b3197a53254"
-            },
-            {
-              "host": "i686-linux-gnu",
-              "url": "https://github.com/sandeepmistry/arduino-nRF5/releases/download/tools/gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
-              "size": "92811866",
-              "checksum": "MD5:f88caac80b4444a17344f57ccb760b90"
-            },
-            {
-              "host": "x86_64-pc-linux-gnu",
-              "url": "https://github.com/sandeepmistry/arduino-nRF5/releases/download/tools/gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-linux.tar.bz2",
-              "size": "92811866",
-              "checksum": "MD5:f88caac80b4444a17344f57ccb760b90"
-            },
             {
               "host": "i686-mingw32",
               "url": "https://releases.linaro.org/components/toolchain/binaries/latest-6/arm-linux-gnueabihf/gcc-linaro-6.5.0-2018.12-i686-mingw32_arm-linux-gnueabihf.tar.xz",
