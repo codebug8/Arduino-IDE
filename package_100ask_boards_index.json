@@ -3,10 +3,10 @@
     {
       "name": "liming",
       "maintainer": "Ming Li ",
-      "websiteURL": "ttps://github.com/codebug8/Arduino-IDE",
+      "websiteURL": "https://github.com/codebug8/Arduino-IDE",
       "email": "livelwh@outlook.com",
       "help": {
-        "online": "ttps://github.com/codebug8/Arduino-IDE/issues"
+        "online": "https://github.com/codebug8/Arduino-IDE/issues"
       },
       "platforms": [
         {
