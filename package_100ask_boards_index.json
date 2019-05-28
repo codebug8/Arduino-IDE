@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "liming",
-      "maintainer": "Ming Li",
+      "name": "100ask",
+      "maintainer": "100ask",
       "websiteURL": "https://github.com/codebug8/Arduino-IDE",
       "email": "livelwh@outlook.com",
       "help": {
@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "100ask  modules Boards",
-          "architecture": "armv7",
+          "architecture": "100ask_borard",
           "version": "0.1.0",
           "category": "Contributed",
           "help": {
@@ -28,7 +28,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "liming",
+              "packager": "100ask",
               "name": "gcc-arm-none-eabi",
               "version": "5_2-2015q4"
             }
