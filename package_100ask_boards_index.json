@@ -29,23 +29,23 @@
           "toolsDependencies": [
             {
               "packager": "liming",
-              "name": "arm-linux-gnueabihf",
-              "version": "6.5.0-2018.12"
+              "name": "gcc-arm-none-eabi",
+              "version": "5_2-2015q4"
             }
           ]
         }
       ],
       "tools":[
         {
-          "name": "arm-linux-gnueabihf",
-          "version": "6.5.0-2018.12",
+          "name": "gcc-arm-none-eabi",
+          "version": "5_2-2015q4",
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://releases.linaro.org/components/toolchain/binaries/latest-6/arm-linux-gnueabihf/gcc-linaro-6.5.0-2018.12-i686-mingw32_arm-linux-gnueabihf.tar.xz",
-              "archiveFileName": "gcc-linaro-6.5.0-2018.12-i686-mingw32_arm-linux-gnueabihf.tar.xz",
-              "size": "336112576",
-              "checksum": "MD5:2f34841973cc65d0d4d264f79b5cd34c"
+              "url": "https://github.com/sandeepmistry/arduino-nRF5/releases/download/tools/gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2",
+              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2",
+              "size": "102981732",
+              "checksum": "MD5:32d950225b6c7c886f6225c1fc578934"
             }
           ]
         }
