@@ -29,23 +29,23 @@
           "toolsDependencies": [
             {
               "packager": "100ask",
-              "name": "gcc-arm-none-eabi",
-              "version": "5_2-2015q4"
+              "name": "gcc-arm-linux-gnueabihf",
+              "version": "6.2.1"
             }
           ]
         }
       ],
       "tools":[
         {
-          "name": "gcc-arm-none-eabi",
-          "version": "5_2-2015q4",
+          "name": "gcc-arm-linux-gnueabihf",
+          "version": "6.2.1",
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/sandeepmistry/arduino-nRF5/releases/download/tools/gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2",
-              "archiveFileName": "gcc-arm-none-eabi-5_2-2015q4-20151219-win32.tar.bz2",
-              "size": "102981732",
-              "checksum": "MD5:32d950225b6c7c886f6225c1fc578934"
+              "url": "https://dev.tencent.com/u/codebug8/p/gcc-arm-linux-gnueabihf-6.2.1/git/archive/gcc-arm-linux-gnueabihf-6.2.1-20190526-linux.tar.gz",
+              "archiveFileName": "gcc-arm-linux-gnueabihf-6.2.1-20190526-linux.tar.gz",
+              "size": "490754183",
+              "checksum": "MD5:054424497706c3c0ca5b53b474d0e2f2"
             }
           ]
         }
