@@ -42,10 +42,10 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://dev.tencent.com/u/codebug8/p/gcc-arm-linux-gnueabihf-6.2.1/git/archive/v1.0.zip",
-              "archiveFileName": "codebug8-gcc-arm-linux-gnueabihf-6.2.1-v1.0.zip",
-              "size": "500851957",
-              "checksum": "MD5:1fe40cc32ab7b6a7c25bd76d8b9635c7"
+              "url": "https://dev.tencent.com/u/codebug8/p/gcc-arm-linux-gnueabihf-6.2.1/git/archive/V1.2.zip",
+              "archiveFileName": "codebug8-gcc-arm-linux-gnueabihf-6.2.1-V1.2.zip",
+              "size": "543972677",
+              "checksum": "MD5:1825bf7f29d6dd523c8cf783fb3abdbe"
             }
           ]
         }
