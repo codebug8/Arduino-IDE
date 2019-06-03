@@ -11,19 +11,18 @@
       "platforms": [
         {
           "name": "100ask  modules Boards",
-          "architecture": "100ask_borard",
-          "version": "0.1.0",
+          "architecture": "ARMV7",
+          "version": "1.0.1",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/codebug8/Arduino-IDE/issues"
           },          
-          "url": "https://github.com/codebug8/arduino-100ask/archive/0.1.0.tar.gz",
-          "archiveFileName": "arduino-100ask-0.1.0.tar.gz",
-          "checksum": "MD5:cd665a20171b4c141077945d6a3fff2c",
-          "size": "7166",
+          "url": "https://github.com/codebug8/arduino-100ask/archive/1.0.1.tar.gz",
+          "archiveFileName": "arduino-100ask-1.0.1.tar.gz",
+          "checksum": "MD5:dd949c48bd2104eb904bf0cc4340559c",
+          "size": "1049732",
           "boards": [
             {"name": "100ask_am335x"},
-            {"name": "roc_rk3399"},
             {"name": "firefly_rk3288"}
           ],
           "toolsDependencies": [
