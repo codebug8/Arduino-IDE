@@ -12,7 +12,7 @@
         {
           "name": "100ask  modules Boards",
           "architecture": "ARMV7",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/codebug8/Arduino-IDE/issues"
