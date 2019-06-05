@@ -20,7 +20,7 @@
           "url": "https://github.com/codebug8/arduino-100ask/archive/1.0.3.tar.gz",
           "archiveFileName": "arduino-100ask-1.0.3.tar.gz",
           "checksum": "MD5:3bee20f3dabe4044675dde54e622235c",
-          "size": "197609",
+          "size": "1060822",
           "boards": [
             {"name": "100ask_am335x"},
             {"name": "firefly_rk3288"}
