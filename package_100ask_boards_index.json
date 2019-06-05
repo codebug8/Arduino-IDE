@@ -17,9 +17,9 @@
           "help": {
             "online": "https://github.com/codebug8/Arduino-IDE/issues"
           },          
-          "url": "https://github.com/codebug8/arduino-100ask/archive/1.0.2.tar.gz",
-          "archiveFileName": "arduino-100ask-1.0.2.tar.gz",
-          "checksum": "MD5:1d681423b6cfe0e9973fe393d2038928",
+          "url": "https://github.com/codebug8/arduino-100ask/archive/1.0.3.tar.gz",
+          "archiveFileName": "arduino-100ask-1.0.3.tar.gz",
+          "checksum": "MD5:3bee20f3dabe4044675dde54e622235c",
           "size": "197609",
           "boards": [
             {"name": "100ask_am335x"},
